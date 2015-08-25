@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OpenProducer Portfolio feature.
+ */
+
+include_once 'openproducer_portfolio.features.inc';
